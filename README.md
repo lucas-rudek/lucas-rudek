@@ -36,14 +36,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
-<br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="lucas-rudek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucas-rudek&show_icons=true" />
-
-</details>
 
 [instagram]: https://instagram.com/lucasrudk
 [linkedin]: https://www.linkedin.com/in/lucas-rudek
