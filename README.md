@@ -33,11 +33,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
 <br />
+<br />
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="lucas-rudek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucas-rudek&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true />
+  <img align="left" alt="lucas-rudek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucas-rudek&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
 
 </details>
 
