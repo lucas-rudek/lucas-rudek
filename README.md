@@ -1,14 +1,10 @@
-<br />
-
 ### Hi there, I'm Lucas!👋
-
-<br />
 
 ### I'm a self tought Fullstack Web Developer.
 
 - 🔭 I’m currently working on some side-projects! Feel free to check out.
-- 🌱 Currently learning more JS + React, and everything about Fullstack webdev. 🤣
-- 👯 Post-graduated in Systems Analysis and graduated in Administration.
+- ⚡ Currently learning more JS + React, and everything about Fullstack webdev.
+- 💪 Post-graduated in Systems Analysis and graduated in Administration.
 
 <br />
 
@@ -41,7 +37,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="lucas-rudek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucas-rudek&show_icons=true" />
+  <img align="left" alt="lucas-rudek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucas-rudek&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true />
 
 </details>
 
