@@ -36,7 +36,8 @@
 <br />
 
 <details>
-  <summary>:zap: Github Stats</summary>
+
+ ### Github Stats
 
   <img align="left" alt="lucas-rudek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucas-rudek&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
 
