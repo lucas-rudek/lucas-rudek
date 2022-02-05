@@ -3,7 +3,7 @@
 ### I'm a self tought Developer.
 
 - 🔭 I have some side-projects! Feel free to check out.
-- ⚡ I learned a little about JS + React and Python.
+- ⚡ I learned about JS + React and Python.
 - 💪 Post-graduated in Systems Analysis and graduated in Administration.
 - ✉  Reach me in: lucas-rudek@hotmail.com
 
