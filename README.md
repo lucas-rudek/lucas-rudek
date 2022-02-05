@@ -2,8 +2,8 @@
 
 ### I'm a self tought Developer.
 
-- 🔭 I’m working on some side-projects! Feel free to check out.
-- ⚡ Currently learning JS + React, and everything about Fullstack web dev.
+- 🔭 I have some side-projects! Feel free to check out.
+- ⚡ I learned a little about JS + React and Python.
 - 💪 Post-graduated in Systems Analysis and graduated in Administration.
 - ✉  Reach me in: lucas-rudek@hotmail.com
 
