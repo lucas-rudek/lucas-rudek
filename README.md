@@ -32,8 +32,6 @@ I'm a brazilian Data Engineer and Python Developer.
   <img title="Git" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
 </p>
 
-<br/>
-
 ### Github Stats:
 <p align="left">
   <img alt="lucas-rudek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucas-rudek&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
