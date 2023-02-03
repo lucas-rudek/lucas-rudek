@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas Rudek!👋
 
-I'm a Data Engineer and Python Developer.
+I'm a brazilian Data Engineer and Python Developer.
 
 - 🔭 I have several side projects that i created to learn stuff! Feel free to check them out.
 - ☁️ Passionate about Cloud, DevOps and Automation.
@@ -14,8 +14,8 @@ I'm a Data Engineer and Python Developer.
 
 ### Connect with me:
 
-<img align="left" alt="lucas-rudek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="lucas-rudek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a target="_blank" href="https://www.linkedin.com/in/lucas-rudek-7234b813b"><img align="left" alt="lucas-rudek" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a target="_blank" href="https://www.instagram.com/lucasrudk"> <img align="left" alt="lucas-rudek" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br/>
 
