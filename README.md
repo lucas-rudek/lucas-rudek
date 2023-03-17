@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas Rudek!👋
 
-I'm a brazilian Data Engineer and Python Developer.
+I'm a brazilian Python Developer and Cloud enthusiast.
 
 - 🔭 I have several side projects that i created to learn stuff! Feel free to check them out.
 - ☁️ Passionate about Cloud and Automation.
