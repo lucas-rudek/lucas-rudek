@@ -3,8 +3,8 @@
 I'm a brazilian Data Engineer and Python Developer.
 
 - 🔭 I have several side projects that i created to learn stuff! Feel free to check them out.
-- ☁️ Passionate about Cloud, DevOps and Automation.
-- ⚡ I've learned Python, JS, SQL, Terraform, Docker and several other tools.
+- ☁️ Passionate about Cloud and Automation.
+- ⚡ I've learned Python, JS, SQL, Data Analysis, Docker and several other tools.
 - 💪 I hold a post-graduate degree in Data Engineering and Computer Networks.
 
 <br/>
