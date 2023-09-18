@@ -3,9 +3,6 @@
 I'm a brazilian Full-stack Developer.
 
 - 🔭 I have several side projects that i created to learn stuff! Feel free to check them out.
-- 🐍 Passionate about Python and Automation.
-- ⚡ I've learned Python, JS, React, Django, Node.js, SQL, Data Analysis, Docker and several other tools.
-- 💪 I hold a post-graduate degree in Data Engineering and Computer Networks.
 
 <br/>
 
